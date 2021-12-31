@@ -2,7 +2,7 @@
 
 Name:           cutefish-wallpapers
 Version:        0.4
-Release:        1
+Release:        2
 Summary:        Cutefish Desktop wallpapers
 License:        GPL-3.0-or-later
 Group:          Unspecified
