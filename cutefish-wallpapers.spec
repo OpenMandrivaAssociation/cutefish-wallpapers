@@ -1,8 +1,8 @@
 %define oname wallpapers
 
 Name:           cutefish-wallpapers
-Version:        0.4
-Release:        2
+Version:        1.0
+Release:        1
 Summary:        Cutefish Desktop wallpapers
 License:        GPL-3.0-or-later
 Group:          Unspecified
