@@ -5,7 +5,7 @@ Version:        1.0
 Release:        2
 Summary:        Cutefish Desktop wallpapers
 License:        GPL-3.0-or-later
-Group:          Unspecified
+Group:          Wallpapers
 URL:            https://github.com/cutefishos/wallpapers
 Source:         https://github.com/cutefishos/wallpapers/archive/refs/tags/%{version}/%{oname}-%{version}.tar.gz
 BuildRequires:  cmake
